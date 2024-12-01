@@ -1,3 +1,3 @@
 # NosLabirin
 
-testing my repostitory
+testing my repository
